@@ -6,6 +6,9 @@ Assess and analyze kickstarter campaigns and the various levels of success throu
 ### Anaylsis and Challenges
 Analysis Overview: Generally speaking, it appears that failed kickstarters had higher funding goals and less pledged values. This would indicate that the kickstarters that were potentially not market ready were easily perceived by the investing population as unsuccessful ideas or concepts. This correlation applies to all countries in this population. Most, if not all, successful kickstarters across the globe secured adequate funding and more. Investors chose the right opportunities.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85248189/123549518-715c9c80-d737-11eb-9532-cf10de27dd0d.png)
+
+
 Challenges/Difficulties: Ensuring correct visualization with a line chart for the outcome based on goal presented a challenge for me since choosing a stacked line graph would render suboptimal results from what the expectation was meant to be. Cycling through the chart types and viewing each graph helped alleviate any misrepresentations. Also, utilizing the COUNTIFS() function between two separate values while sorting through 2 qualitative data types beyond the initial 2 quantitative, was time consuming, but in applying formatting across the data table, it helped seeing the process of fixing errors that Excel prompts users with.
 
 ### Results
